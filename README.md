@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subhankar
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning API creation using NodeJS.I am skilled in Java Spring Boot and C# application development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning System Design.I am skilled in Java Spring Boot application development.
+- 💞️ I’m looking to collaborate on new ideas.
 - 📫 How to reach me : sbmkrdash@gmail.com
 
 <!---
